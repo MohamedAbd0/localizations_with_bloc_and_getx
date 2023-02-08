@@ -1,15 +1,4 @@
 # localizations_with_bloc_and_getx
 
-A new Flutter project.
+https://medium.com/@mohamedabdoelnashar/flutter-bmi-calculator-app-for-adults-f94bde85d399
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# localizations_with_bloc_and_getx
